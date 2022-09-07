@@ -67,7 +67,7 @@ DMM WEBCAMP卒業生コミュニティ　運営サポート
 </a>
 </td>
 <td>
-<a href="hhttps://mg10313273.hatenablog.com/">
+<a href="https://mg10313273.hatenablog.com/">
 <img src="https://user-images.githubusercontent.com/88922437/188893189-b9d77279-02bd-4d86-bb4f-b3777edd4f5d.png" width="128px" height="128px">
 </a>
 </td>
