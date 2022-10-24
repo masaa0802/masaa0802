@@ -49,7 +49,8 @@
 
 <a id="anchor4"></a>
 ## 外部活動
-DMM WEBCAMP卒業生コミュニティ　運営サポート
+DMM WEBCAMP卒業生コミュニティ<br>
+運営サポート
 
 <a id="anchor5"></a>
 ## リンク
