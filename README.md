@@ -57,7 +57,7 @@
 
 <a id="anchor4"></a>
 ## 外部活動
-DMM WEBCAMP卒業生コミュニティ<br>
+[DMM WEBCAMP卒業生コミュニティ](https://twitter.com/Webcamp_COMM)<br>
 運営サポート
 
 <a id="anchor5"></a>
