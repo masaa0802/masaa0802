@@ -80,6 +80,11 @@
 <img src="https://user-images.githubusercontent.com/88922437/188893189-b9d77279-02bd-4d86-bb4f-b3777edd4f5d.png" width="128px" height="128px">
 </a>
 </td>
+<td>
+<a href="https://findy-code.io/share_profiles/a1C52ZiHf142k">
+<img src="https://user-images.githubusercontent.com/88922437/232763487-936a6e66-b0e3-4703-8cbc-085a271d9458.png" width="128px" height="128px">
+</a>
+</td>
 </tr>
 </table>
 
