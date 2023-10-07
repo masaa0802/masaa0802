@@ -86,6 +86,11 @@
 <img src="https://user-images.githubusercontent.com/88922437/232763487-936a6e66-b0e3-4703-8cbc-085a271d9458.png" width="128px" height="128px">
 </a>
 </td>
+<td>
+<a href="https://lapras.com/public/VMGGFCQ">
+<img src="https://assets.st-note.com/production/uploads/images/61250000/profile_539a3323189bfa04a05f29809e13f02e.png" width="128px" height="128px">
+</a>
+</td>
 </tr>
 </table>
 
