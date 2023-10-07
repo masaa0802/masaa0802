@@ -35,7 +35,8 @@
 | ---- | ---- |
 | 17/4-21/3 | 神奈川大学外国語学部(18/9-19/7 派遣交換留学 浙江大学（中国）) |
 | 21/9-21/11 | プログラミングスクール[DMM WEBCAMP](https://web-camp.io/) |
-| 22/03-現在 | [株式会社CIN GROUP](https://www.cin-group.com)（webエンジニア） |
+| 22/03-23/09 | [株式会社CIN GROUP](https://www.cin-group.com)（エンジニア） |
+| 23/10-現在 | [株式会社リーディングマーク](https://www.leadingmark.jp)（エンジニア） |
 
 <a id="anchor2"></a>
 ## 開発経験
