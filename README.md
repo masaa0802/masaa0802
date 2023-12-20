@@ -3,6 +3,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masaa0802&theme=onedark&show_icons=ture" />
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masaa0802&theme=2077)
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/masaa0802/posts.svg)](http://qiita.com/masaa0802)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/masaa0802/contributions.svg)](http://qiita.com/masaa0802)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/masaa0802/followers.svg)](http://qiita.com/masaa0802)
